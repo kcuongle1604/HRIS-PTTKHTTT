@@ -1,6 +1,5 @@
 ## 📌 Giới thiệu  
-**HRM** (Human Resource Management) là hệ thống quản lý nhân sự giúp doanh nghiệp theo dõi và quản lý nhân viên, chấm công, tính lương, và tạo báo cáo nhân sự một cách hiệu quả.  
-
+**HRM** (Human Resource Management) là hệ thống quản lý nhân sự giúp doanh nghiệp theo dõi và quản lý nhân viên, chấm công, tính lương, và tạo báo cáo nhân sự một cách hiệu quả. Dự án được thực hiện trong khuôn khổ môn Phân tích và thiết kế Hệ thống thông tin.  
 ## ⚙️ Chức năng chính  
 - 🔹 **Quản lý nhân viên**: Thêm, sửa, xóa, xem thông tin nhân viên.  
 - 🔹 **Quản lý chấm công**: Theo dõi, quản lý thời gian làm việc.  
